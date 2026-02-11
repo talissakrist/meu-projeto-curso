@@ -14,5 +14,9 @@
     <p>Outro parágrafo</p>
     <hr />
     <p>Terceiro parágrafo<p>
+    <!-- Atributos-->
+     <a href="https://google.com">google</a><br/>
+    <!--Abrir Link em nova aba-->
+    <a href="https://google.com.br" target="_blank">google em nova aba</a>
 </body>
 </html>
