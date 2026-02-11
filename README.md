@@ -12,5 +12,7 @@
     <p>Segundo parágrafo</p> <br/><br/>
 
     <p>Outro parágrafo</p>
+    <hr />
+    <p>Terceiro parágrafo<p>
 </body>
 </html>
