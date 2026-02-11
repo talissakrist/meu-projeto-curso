@@ -9,5 +9,8 @@
     <h1>Este é um título importante</h1>
     <h3>Um novo título</h3>
     <p>Descrição dos nossos serviços</p>
+    <p>Segundo parágrafo</p> <br/><br/>
+
+    <p>Outro parágrafo</p>
 </body>
 </html>
