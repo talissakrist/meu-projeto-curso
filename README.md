@@ -13,10 +13,24 @@
 
     <p>Outro parágrafo</p>
     <hr />
-    <p>Terceiro parágrafo<p>
+    <p>Terceiro parágrafo</p>
+
     <!-- Atributos-->
      <a href="https://google.com">google</a><br/>
-    <!--Abrir Link em nova aba-->
-    <a href="https://google.com.br" target="_blank">google em nova aba</a>
+
+     <!--Abrir Link em nova aba-->
+     <a href="https://google.com.br" target="_blank">google em nova aba</a>
+
+     <!--Imagem-->
+     <img src="img.person-eating-salmon-bowl.jpg" alt="pessoa segurando um bowl com salada" />
+
+     <!--Listas não ordenadas-->
+
+     <ul>
+        <li>Carros</li>
+        <li>Motos</li>
+        <li>Navios</li>
+        <li>Aviões</li>
+     </ul>
 </body>
 </html>
