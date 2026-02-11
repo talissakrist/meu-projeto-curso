@@ -32,5 +32,12 @@
         <li>Navios</li>
         <li>Aviões</li>
      </ul>
+
+     <!--Listas ordenadas-->
+     <ol>
+        <li>Acordar cedo</li>
+        <li>Tomar banho</li>
+        <li>Comer</li>
+     </ol>
 </body>
 </html>
