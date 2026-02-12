@@ -57,5 +57,16 @@
             <td>Analista de sistemas</td>
          </tr>
       </table>
+
+      <div>
+         <h2>Título da seção<h2>
+         <p>Descrição da seção, um texto relacionado a esse assunto</p>
+         <a href="#">Saber mais</a>
+      </div>
+
+      <div>
+         <h2>Sobre Talissa</h2>
+         <p>Nome completo: Talissa Oliveira</p>
+      </div>
 </body>
 </html>
