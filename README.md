@@ -3,16 +3,58 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Carnaval chegou</title>
+    <title>HTML fundamentos</title>
 </head>
 <body>
-    <h1>Carnaval chegou</h1>
-    <img src="img/women-celebrating-pride-day" alt="três mulheres curtindo o carnaval"></br>
-    <p>Na imagem vemos três mulheres, sorrindo e felizes curtindo o carnaval. Elas estão com roupas coloridas e vestindo roupas brilhosas</p></br>
-    <ul>
-        <li>Glitter</li>
-        <li>Confetes</li>
-        <li>Alegria</li>
-    </ul>
+    <h1>Este é um título importante</h1>
+    <h3>Um novo título</h3>
+    <p>Descrição dos nossos serviços</p>
+    <p>Segundo parágrafo</p> <br/><br/>
+
+    <p>Outro parágrafo</p>
+    <hr />
+    <p>Terceiro parágrafo</p>
+
+    <!-- Atributos-->
+     <a href="https://google.com">google</a><br/>
+
+     <!--Abrir Link em nova aba-->
+     <a href="https://google.com.br" target="_blank">google em nova aba</a>
+
+     <!--Imagem-->
+     <img src="img.person-eating-salmon-bowl.jpg" alt="pessoa segurando um bowl com salada" />
+
+     <!--Listas não ordenadas-->
+
+     <ul>
+        <li>Carros</li>
+        <li>Motos</li>
+        <li>Navios</li>
+        <li>Aviões</li>
+     </ul>
+
+     <!--Listas ordenadas-->
+     <ol>
+        <li>Acordar cedo</li>
+        <li>Tomar banho</li>
+        <li>Comer</li>
+     </ol>
+
+     <!--Tabelas-->
+     <tr>
+        <th>ID:</th>
+        <th>Nome:</th>
+        <th>Profissão:</th>
+     </tr>
+     <tr>
+        <td>1</td>
+        <td>Talissa</td>
+        <td>Auxiliar de laboratório</td>
+     </tr>
+     <tr>
+        <td>2</td>
+        <td>Daniel</td>
+        <td>Desenvolvedor de sistemas</td>
+     </tr>
 </body>
 </html>
