@@ -39,5 +39,22 @@
         <li>Tomar banho</li>
         <li>Comer</li>
      </ol>
+
+     <table>
+        <tr>
+            <th>id:</th>
+            <th>Nome: </th>
+            <th>Profissão:</th>
+        </tr>
+        <tr>
+            <td>1</tr>
+            <td>Talissa</td>
+            <td>Auxiliar de laboratório</td>
+         </tr>
+         <tr>
+            <td>2</tr>
+            <td>Daniel</td>
+            <td>Analista de sistemas</td>
+         </tr>
 </body>
 </html>
