@@ -56,5 +56,6 @@
             <td>Daniel</td>
             <td>Analista de sistemas</td>
          </tr>
+      </table>
 </body>
 </html>
