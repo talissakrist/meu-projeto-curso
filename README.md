@@ -52,7 +52,7 @@
             <td>Auxiliar de laboratório</td>
          </tr>
          <tr>
-            <td>2</tr>
+            <td>2</td>
             <td>Daniel</td>
             <td>Analista de sistemas</td>
          </tr>
